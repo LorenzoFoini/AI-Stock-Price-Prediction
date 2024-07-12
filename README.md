@@ -1,6 +1,7 @@
 # Stock Forecasting Notebooks
 
-This repository contains two notebooks for predicting stock trends.
+This repository contains two notebooks for predicting stock trends.<br>
+![alt text](Image.jpg)
 
 ## Notebook 1: Stock_forecasting_simple.ipynb
 

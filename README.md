@@ -61,4 +61,4 @@ Make sure you have the following Python packages installed:
 
 + These notebooks are intended for educational purposes and should not be used for making financial decisions without further analysis.
 + Financial data and forecasts may vary and do not guarantee future results.
-+ Notebooks inspired by TikTok videos by entrepreneur [**Simone Rizzo**](https://www.tiktok.com/@simonerizzo98?lang=it-IT).
++ Notebooks inspired by TikTok videos by entrepreneur [**Simone Rizzo**](https://www.linkedin.com/in/simonerizzo98/).
